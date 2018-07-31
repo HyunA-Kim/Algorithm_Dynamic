@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="[9507]Generations of Tribbles.cpp">
+    <ClCompile Include="[6539]만취한상범.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
